@@ -7,3 +7,5 @@ N
 tests/insurance-policy.test.ts,0/d/0d1cd4fdc475e0e2a30ce6d0c8c87039dc276033
 O
 contracts/claim-settlement.clar,7/7/77a3ccf07a10e59a8929f1ac14466d437b1d4e14
+N
+tests/claim-settlement.test.ts,6/c/6c01cc3277d24dc31f01b059020d5f62c3d9f75a
