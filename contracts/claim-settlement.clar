@@ -90,7 +90,7 @@
 
 (define-read-only (get-total-approved-claims (policy-id uint))
   (match (get-policy-claims policy-id)
-    claims (fold + (map get-approved-claim-amount (get claim-ids claims)) u0)
+    policy-claims-data (fold + (map get-approved-claim-amount (get claim-ids policy-claims-data)) u0)
     u0
   )
 )
