@@ -11,3 +11,5 @@ N
 tests/claim-settlement.test.ts,6/c/6c01cc3277d24dc31f01b059020d5f62c3d9f75a
 I
 contracts/policy-nft.clar,3/4/3438263f42b1c18afc22f092c8129428f79de1f6
+H
+tests/policy-nft.test.ts,1/0/10368dcfa8b5479df854310f02d4ff8167ad007b
