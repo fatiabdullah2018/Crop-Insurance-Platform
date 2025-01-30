@@ -9,3 +9,5 @@ O
 contracts/claim-settlement.clar,7/7/77a3ccf07a10e59a8929f1ac14466d437b1d4e14
 N
 tests/claim-settlement.test.ts,6/c/6c01cc3277d24dc31f01b059020d5f62c3d9f75a
+I
+contracts/policy-nft.clar,3/4/3438263f42b1c18afc22f092c8129428f79de1f6
