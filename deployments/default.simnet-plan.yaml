@@ -50,13 +50,18 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
+            contract-name: claim-settlement
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/claim-settlement.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: insurance-policy
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/insurance-policy.clar
             clarity-version: 2
         - emulated-contract-publish:
-            contract-name: claim-settlement
+            contract-name: policy-nft
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/claim-settlement.clar
+            path: contracts/policy-nft.clar
             clarity-version: 2
       epoch: "2.5"
